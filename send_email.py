@@ -1,19 +1,28 @@
-import smtplib, ssl, os, json, sys
-from email.message import EmailMessage
+import os, json, sys, urllib.request, urllib.error
 
 payload = json.load(open(sys.argv[1]))
 
-msg = EmailMessage()
-msg["From"] = os.environ["GMAIL_SENDER"]
-msg["To"] = payload.get("to", "dr.mario.grandi@gmail.com")
-msg["Subject"] = payload["subject"]
-msg.set_content("This email contains HTML; view in an HTML-capable client.")
-msg.add_alternative(payload["html_body"], subtype="html")
+body = json.dumps({
+    "from": os.environ.get("EMAIL_FROM", "onboarding@resend.dev"),
+    "to": [payload.get("to", "dr.mario.grandi@gmail.com")],
+    "subject": payload["subject"],
+    "html": payload["html_body"],
+}).encode()
 
-ctx = ssl.create_default_context()
-with smtplib.SMTP("smtp.gmail.com", 587) as s:
-    s.starttls(context=ctx)
-    s.login(os.environ["GMAIL_SENDER"], os.environ["GMAIL_APP_PASSWORD"])
-    s.send_message(msg)
+req = urllib.request.Request(
+    "https://api.resend.com/emails",
+    data=body,
+    headers={
+        "Authorization": "Bearer " + os.environ["RESEND_API_KEY"],
+        "Content-Type": "application/json",
+    },
+    method="POST",
+)
 
-print(f"Email sent to {msg['To']} — subject: {payload['subject']}")
+try:
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        result = json.load(resp)
+    print(f"Email sent — id: {result.get('id')}")
+except urllib.error.HTTPError as e:
+    print(f"Send failed: {e.code} {e.read().decode()}")
+    sys.exit(1)
