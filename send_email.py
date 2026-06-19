@@ -15,6 +15,7 @@ req = urllib.request.Request(
     headers={
         "Authorization": "Bearer " + os.environ["RESEND_API_KEY"],
         "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0 (compatible; JobRoutine/1.0)",
     },
     method="POST",
 )
@@ -25,4 +26,7 @@ try:
     print(f"Email sent — id: {result.get('id')}")
 except urllib.error.HTTPError as e:
     print(f"Send failed: {e.code} {e.read().decode()}")
+    sys.exit(1)
+except urllib.error.URLError as e:
+    print(f"Connection failed: {e.reason}")
     sys.exit(1)
