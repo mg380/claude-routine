@@ -15,7 +15,7 @@ req = urllib.request.Request(
     headers={
         "Authorization": "Bearer " + os.environ["RESEND_API_KEY"],
         "Content-Type": "application/json",
-        "User-Agent": "Mozilla/5.0 (compatible; JobRoutine/1.0)",
+        "User-Agent": "curl/8.0",
     },
     method="POST",
 )
