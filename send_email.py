@@ -4,7 +4,7 @@ payload = json.load(open(sys.argv[1]))
 
 body = json.dumps({
     "from": os.environ.get("EMAIL_FROM", "onboarding@resend.dev"),
-    "to": [payload.get("to", "oliviargrandi@gmail.com")],
+    "to": [payload.get("to", "dr.mario.grandi@gmail.com")],
     "subject": payload["subject"],
     "html": payload["html_body"],
 }).encode()
