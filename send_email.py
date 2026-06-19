@@ -3,7 +3,7 @@ import os, json, sys, urllib.request, urllib.error
 payload = json.load(open(sys.argv[1]))
 
 body = json.dumps({
-    "from": os.environ.get("EMAIL_FROM", "mario.agent@geneva-schools.com"),
+    "from": os.environ.get("EMAIL_FROM", "onboarding@resend.dev"),
     "to": [payload.get("to", "oliviargrandi@gmail.com")],
     "subject": payload["subject"],
     "html": payload["html_body"],
