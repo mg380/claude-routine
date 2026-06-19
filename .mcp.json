@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "email-sender": {
+      "command": "python3",
+      "args": ["email_tool.py"]
+    }
+  }
+}
