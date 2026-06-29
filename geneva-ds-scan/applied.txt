@@ -7,3 +7,4 @@
 #
 # Add a line here the moment you apply, or run:  python3 job_ledger.py applied <url>
 
+https://jobs.smartrecruiters.com/CERN/744000130531760-ai-solutions-engineer-be-css-isa-2026-115-ld-
