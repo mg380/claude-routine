@@ -1,0 +1,9 @@
+# applied.txt — jobs Mario has already applied to (these are suppressed forever)
+# One per line. Lines starting with # are ignored.
+# Accepted formats:
+#   https://full-url-of-the-posting        (best — most precise)
+#   smartrecruiters:CERN:TE-DPS-AIM-2026-76-GRAP   (a job_id from the ledger)
+#   CERN | Senior Data Scientist           (Company | Title, if you have no URL)
+#
+# Add a line here the moment you apply, or run:  python3 job_ledger.py applied <url>
+

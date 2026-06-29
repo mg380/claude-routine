@@ -1,0 +1,8 @@
+# ignore.txt — companies/roles to mute permanently (never email these)
+# Same line formats as applied.txt. Useful for recruiting agencies or
+# role types you never want. Examples (uncomment to use):
+# Adecco |
+# Michael Page |
+# Academic Work |
+# https://www.jobup.ch/en/jobs/detail/specific-one-you-dont-want/
+
