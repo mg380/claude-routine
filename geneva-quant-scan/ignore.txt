@@ -1,0 +1,5 @@
+# ignore.txt — companies/roles to mute permanently for the quant scan.
+# Same formats as applied.txt. Examples (uncomment to use):
+# Robert Walters |
+# Michael Page |
+# Hays |

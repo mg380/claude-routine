@@ -1,0 +1,3 @@
+# applied.txt — quant/fin-AI jobs Mario has already applied to (suppressed forever)
+# One per line. '#' = comment. Formats: a full URL (best), a ledger job_id,
+# or "Company | Title". Add a line the moment you apply.
