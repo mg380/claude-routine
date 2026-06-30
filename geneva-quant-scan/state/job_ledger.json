@@ -1,0 +1,163 @@
+{
+  "cargill successfactors:328537": {
+    "job_id": "cargill successfactors:328537",
+    "first_seen": "2026-06-30",
+    "status": "emailed",
+    "emailed_runs": [
+      "2026-06-30"
+    ],
+    "title": "Advisor, Quantitative Trader",
+    "company": "Cargill",
+    "location": "Geneva, Switzerland",
+    "url": "https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=328537&company=cargill&locale=en_US",
+    "canonical_url": "career2.successfactors.eu/sfcareer/jobreqcareer",
+    "source": "cargill:successfactors",
+    "source_id": "328537",
+    "fit_score": 85,
+    "fit_reasons": "PhD/MSc in quantitative discipline required; systematic multi-commodity trading portfolio; Python/SQL/OOP; portfolio construction; 6+ yrs experience; Cargill commodity trading house at senior Advisor level is prime fit. Strong match on stack, seniority, and research-led trading posture.",
+    "requirements": "MSc/PhD quantitative field (stats/CS/engineering/quant finance); 6+ yrs; Python/SQL/OOP; multi-asset systematic trading; portfolio construction; cost modelling; English",
+    "start_date": null,
+    "closing_date": null,
+    "deadline_label": "",
+    "days_to_close": null,
+    "last_seen": "2026-06-30"
+  },
+  "recruiter eka finance:efc 19812280": {
+    "job_id": "recruiter eka finance:efc 19812280",
+    "first_seen": "2026-06-30",
+    "status": "emailed",
+    "emailed_runs": [
+      "2026-06-30"
+    ],
+    "title": "Systematic ML Quant Researcher",
+    "company": "Undisclosed quant fund (via Eka Finance)",
+    "location": "Geneva, Switzerland (also London / New York)",
+    "url": "https://www.efinancialcareers.com/jobs-Switzerland-Geneva-Systematic_Machine_Learning_Quant_Researcher.id19812280",
+    "canonical_url": "efinancialcareers.com/jobs-Switzerland-Geneva-Systematic_Machine_Learning_Quant_Researcher.id19812280",
+    "source": "recruiter:eka-finance",
+    "source_id": "efc-19812280",
+    "fit_score": 82,
+    "fit_reasons": "Leading quant fund hiring ML quant researcher; DL/RL/Bayesian/NLP expertise; backtesting and model productionisation; open to ML-in-tech to finance transition — exactly Mario's trajectory. Physics PhD is a prime differentiator; production ML + systematic trading infrastructure experience aligns very well.",
+    "requirements": "PhD preferred; ML/DL/RL/Bayesian expertise; Python; backtesting and model productionisation; publications at NeurIPS/ICML desirable; finance or ML tech background welcome; English",
+    "start_date": null,
+    "closing_date": null,
+    "deadline_label": "",
+    "days_to_close": null,
+    "last_seen": "2026-06-30"
+  },
+  "greenhouse gardacp:6008823004": {
+    "job_id": "greenhouse gardacp:6008823004",
+    "first_seen": "2026-06-30",
+    "status": "emailed",
+    "emailed_runs": [
+      "2026-06-30"
+    ],
+    "title": "Quantitative Researcher",
+    "company": "Garda Capital Partners",
+    "location": "Geneva or Zug, Switzerland",
+    "url": "https://gardacp.com/careers/6008823004/",
+    "canonical_url": "gardacp.com/careers/6008823004",
+    "source": "greenhouse:gardacp",
+    "source_id": "6008823004",
+    "fit_score": 80,
+    "fit_reasons": "Full lifecycle quant research at multi-billion systematic fixed income fund: signal generation, backtesting, performance evaluation, production implementation; Python; 1-4 yrs systematic trading research required — Mario's backtesting/signal-validation pipeline work is a direct match. Geneva office of global systematic AM.",
+    "requirements": "BSc/MSc in stats/financial engineering/applied maths/CS or comparable quantitative discipline; 1-4 yrs quantitative research/systematic trading; advanced Python; fixed income preferred; English",
+    "start_date": null,
+    "closing_date": null,
+    "deadline_label": "",
+    "days_to_close": null,
+    "last_seen": "2026-06-30"
+  },
+  "recruiter eka finance:efc 23206034": {
+    "job_id": "recruiter eka finance:efc 23206034",
+    "first_seen": "2026-06-30",
+    "status": "emailed",
+    "emailed_runs": [
+      "2026-06-30"
+    ],
+    "title": "Quant Researcher – Equities / Futures",
+    "company": "Undisclosed fund (via Eka Finance)",
+    "location": "Geneva, Switzerland",
+    "url": "https://www.efinancialcareers.ch/en/jobs-Switzerland-Geneva-Quant_Researcher_Equities_Futures.id23206034",
+    "canonical_url": "efinancialcareers.ch/en/jobs-Switzerland-Geneva-Quant_Researcher_Equities_Futures.id23206034",
+    "source": "recruiter:eka-finance",
+    "source_id": "efc-23206034",
+    "fit_score": 80,
+    "fit_reasons": "MSc/PhD in quantitative discipline including physics explicitly required; alpha generation, systematic trading strategies, backtesting across equities and futures; 5+ yrs systematic quant; low-to-medium frequency background accepted — Mario's research background and systematic backtesting work directly applicable.",
+    "requirements": "MSc/PhD (maths/stats/CS/physics); 5+ yrs systematic quant research; Python; backtesting; alpha research; equities/futures focus; English",
+    "start_date": null,
+    "closing_date": null,
+    "deadline_label": "",
+    "days_to_close": null,
+    "last_seen": "2026-06-30"
+  },
+  "efinancialcareers:efc 22765497": {
+    "job_id": "efinancialcareers:efc 22765497",
+    "first_seen": "2026-06-30",
+    "status": "emailed",
+    "emailed_runs": [
+      "2026-06-30"
+    ],
+    "title": "Systematic Quantitative Researcher – Medium/High Frequency Strategies",
+    "company": "Undisclosed systematic fund",
+    "location": "Geneva, Switzerland",
+    "url": "https://www.efinancialcareers.com/jobs-Switzerland-Geneva-Systematic_Quantitative_Researcher_%E2%80%93_MediumHigh_Frequency_Strategies_Switzerland___Open.id22765497",
+    "canonical_url": "efinancialcareers.com/jobs-Switzerland-Geneva-Systematic_Quantitative_Researcher_%E2%80%93_MediumHigh_Frequency_Strategies_Switzerland___Open.id22765497",
+    "source": "efinancialcareers",
+    "source_id": "efc-22765497",
+    "fit_score": 72,
+    "fit_reasons": "Systematic quant researcher for med/high frequency strategies in Geneva; quantitative research and strategy development — well-matched to Mario's systematic trading research and backtesting work. STEM PhD strongly expected at this type of role.",
+    "requirements": "Quantitative discipline; systematic research experience; med/high frequency strategies; salary open — verify details via eFinancialCareers.",
+    "start_date": null,
+    "closing_date": null,
+    "deadline_label": "",
+    "days_to_close": null,
+    "last_seen": "2026-06-30"
+  },
+  "workday trafigura:r 017761": {
+    "job_id": "workday trafigura:r 017761",
+    "first_seen": "2026-06-30",
+    "status": "emailed",
+    "emailed_runs": [
+      "2026-06-30"
+    ],
+    "title": "Quantitative Gas Analyst",
+    "company": "Trafigura",
+    "location": "Geneva, Switzerland",
+    "url": "https://trafigura.wd3.myworkdayjobs.com/en-US/TrafiguraCareerSite/job/Geneva-Switzerland/Quantitative-Gas-Analyst_R-017761/apply",
+    "canonical_url": "trafigura.wd3.myworkdayjobs.com/en-US/TrafiguraCareerSite/job/Geneva-Switzerland/Quantitative-Gas-Analyst_R-017761/apply",
+    "source": "workday:trafigura",
+    "source_id": "R-017761",
+    "fit_score": 62,
+    "fit_reasons": "Quantitative modelling at Trafigura (top commodity trading house); Python/pandas/NumPy/sklearn; time series analysis, statistical modelling, scenario analysis — strong Python/stats stack match. Transition stretch: gas/LNG market fundamentals domain knowledge required (2-5 yrs in energy/commodities).",
+    "requirements": "2-5 yrs quantitative/analytical in energy/commodities/financial services; Python (pandas/NumPy/sklearn/R); SQL; time series; gas/LNG fundamentals preferred; English; posted ~2026-06-28",
+    "start_date": null,
+    "closing_date": null,
+    "deadline_label": "",
+    "days_to_close": null,
+    "last_seen": "2026-06-30"
+  },
+  "jobs ch:pictet credit quant dm 2026": {
+    "job_id": "jobs ch:pictet credit quant dm 2026",
+    "first_seen": "2026-06-30",
+    "status": "emailed",
+    "emailed_runs": [
+      "2026-06-30"
+    ],
+    "title": "Quantitative Analyst – Credit Developed Markets",
+    "company": "Pictet",
+    "location": "Geneva, Switzerland",
+    "url": "https://career012.successfactors.eu/career?company=banquepict",
+    "canonical_url": "career012.successfactors.eu/career",
+    "source": "jobs.ch",
+    "source_id": "pictet-credit-quant-dm-2026",
+    "fit_score": 58,
+    "fit_reasons": "Quantitative analyst building new data-driven credit investment processes at Pictet (USD 8bn credit franchise); Python/SQL explicitly listed; Pictet is top-tier Geneva private bank/AM. Transition stretch: credit derivatives knowledge and CFA/CAIA preferred. French a plus (Mario speaks French).",
+    "requirements": "Master's in Financial Engineering or related; Python/SQL; fixed income/credit/credit derivatives; CFA/CAIA a plus; willing to relocate to Switzerland; English (French a plus)",
+    "start_date": null,
+    "closing_date": null,
+    "deadline_label": "",
+    "days_to_close": null,
+    "last_seen": "2026-06-30"
+  }
+}
